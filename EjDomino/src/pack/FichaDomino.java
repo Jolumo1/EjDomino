@@ -54,4 +54,25 @@ public class FichaDomino {
 
 	}
 
+	public int getIzq() {
+		return izq;
+	}
+
+	public void setIzq(int izq) {
+		this.izq = izq;
+	}
+
+	public int getDer() {
+		return der;
+	}
+
+	public void setDer(int der) {
+		this.der = der;
+	}
+
+	
+	
+	
+	
+	
 }
